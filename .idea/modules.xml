@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_Firebase_Deep_Linking.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_Firebase_Deep_Linking.iml" group="Kotlin_Firebase_Deep_Linking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Kotlin Firebase Deep Linking/app" />
+    </modules>
+  </component>
+</project>
